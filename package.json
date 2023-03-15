@@ -1,0 +1,19 @@
+{
+  "name": "modulebaseddiscordbot",
+  "version": "1.0.0",
+  "description": "A system that uses modules to expand a Discord bot.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectHSI/ModuleBasedDiscordBot.git"
+  },
+  "author": "[Project HSI]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProjectHSI/ModuleBasedDiscordBot/issues"
+  },
+  "homepage": "https://github.com/ProjectHSI/ModuleBasedDiscordBot#readme"
+}
